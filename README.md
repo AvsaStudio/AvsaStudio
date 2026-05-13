@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @AvsaStudio
-- https://salomeavsa.com/
-- 👀 I’m interested in Machine Learning, AI, Big Data
-- 🌱 I’m currently learning FullStack & Data Science
-- 📫 How to reach me salome.a.miller@gmail.com
-- 😄 Pronouns: Sa-Lo-May
-- ⚡ Fun fact: i'm a very good diver! LOve Water!
+👋 Hi, I’m @AvsaStudio  
+🌐 Portfolio: https://salomeavsa.com/  
+
+💻 Passionate about Machine Learning, AI, Software Engineering, and Digital Design  
+🎨 Creative developer blending technology, UX/UI, photography, and visual storytelling  
+
+🌱 Currently learning Full Stack Development  
+🚀 Building projects with JavaScript, Python, React, and AI tools  
+
+📫 Reach me at: salome.a.miller@gmail.com  
+
+😄 Pronounced: Sa-Lo-May  
+🌊 Fun fact: I’m a great diver and happiest near the water
 <!---
 AvsaStudio/AvsaStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
